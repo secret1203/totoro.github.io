@@ -15,7 +15,7 @@ body {
 }
 
 body:before {
-    content: 'totoro';
+    content: '龍 貓';
     position: fixed;
     top: 50%;
     left: 50%;
